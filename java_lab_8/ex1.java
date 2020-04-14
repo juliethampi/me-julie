@@ -13,7 +13,7 @@ public class ex1 {
     public static void main(String args[])
     {
         ex E = new ex();
-        System.out.println("MCA");
+        System.out.println("Hai");
         E.display();
     }
 }
